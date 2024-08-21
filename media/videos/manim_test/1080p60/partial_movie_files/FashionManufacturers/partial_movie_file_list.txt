@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/FashionManufacturers/3977891868_514470493_223132457.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/FashionManufacturers/2852726489_2488892669_3347017051.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/FashionManufacturers/2852726489_3890345977_10073920.mp4'

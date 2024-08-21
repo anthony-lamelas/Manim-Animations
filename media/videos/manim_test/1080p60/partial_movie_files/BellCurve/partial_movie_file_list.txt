@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/BellCurve/3977891868_3364496768_223132457.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/BellCurve/2852726489_1363521993_1362290860.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test/1080p60/partial_movie_files/BellCurve/2852726489_1141282389_968478372.mp4'

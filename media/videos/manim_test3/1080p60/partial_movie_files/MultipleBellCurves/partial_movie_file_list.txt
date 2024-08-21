@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/2621265332_4148691497_223132457.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/4272032393_356229035_1362290860.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/4272032393_495244956_2278858601.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/4272032393_2576062716_3423516495.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/4272032393_2845350591_3778436496.mp4'
+file 'file:C:/Users/nanna/OneDrive/Documents/Coding/Pomu Coding/media/videos/manim_test3/1080p60/partial_movie_files/MultipleBellCurves/4272032393_1165985053_514261273.mp4'
